@@ -1,6 +1,8 @@
 # Zephyr Feed
 Welcome to the Zephyr Feed project! Zephyr Feed is a social media application inspired by Twitter, built using React.js, MongoDB, Node.js, Express, Tailwind CSS, and React Query. It offers a modern and feature-rich platform for social networking and content sharing.
 
+
+
 ## Features
 -Authentication with JSONWEBTOKENS (JWT): Secure user authentication using JSON Web Tokens.
 
@@ -26,8 +28,9 @@ Welcome to the Zephyr Feed project! Zephyr Feed is a social media application in
 
 
 
-### Technology Used
-##### Frontend Technologies:
+## Technology Used
+
+### Frontend Technologies:
 
 React.js: A JavaScript library for building user interfaces, providing a fast and interactive frontend experience.
 
@@ -35,7 +38,7 @@ Tailwind CSS: A utility-first CSS framework that helps in quickly styling compon
 
 React Query: A powerful data-fetching library for managing and caching API data in React applications, optimizing performance.
 
-##### Backend Technologies:
+### Backend Technologies:
 
 Node.js: A runtime environment for executing JavaScript code outside of a web browser, used for server-side development.
 
@@ -45,7 +48,7 @@ MongoDB: A NoSQL database that stores data in flexible, JSON-like documents, pro
 
 Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js, facilitating schema-based modeling for application data.
 
-##### Other Tools and Libraries:
+### Other Tools and Libraries:
 
 JSON Web Tokens (JWT): Used for secure authentication by generating tokens that verify user identity.
 
