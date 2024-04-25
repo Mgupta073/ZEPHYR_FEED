@@ -32,35 +32,37 @@ Welcome to the Zephyr Feed project! Zephyr Feed is a social media application in
 
 ### Frontend Technologies:
 
-React.js: A JavaScript library for building user interfaces, providing a fast and interactive frontend experience.
+React.js:   A JavaScript library for building user interfaces, providing a fast and interactive frontend experience.
 
-Tailwind CSS: A utility-first CSS framework that helps in quickly styling components with a modern and responsive design.
+Tailwind CSS:   A utility-first CSS framework that helps in quickly styling components with a modern and responsive design.
 
-React Query: A powerful data-fetching library for managing and caching API data in React applications, optimizing performance.
+React Query:   A powerful data-fetching library for managing and caching API data in React applications, optimizing performance.
+
 
 ### Backend Technologies:
 
-Node.js: A runtime environment for executing JavaScript code outside of a web browser, used for server-side development.
+Node.js:  A runtime environment for executing JavaScript code outside of a web browser, used for server-side development.
 
-Express: A minimalist web framework for Node.js that simplifies routing, middleware creation, and API handling.
+Express:  A minimalist web framework for Node.js that simplifies routing, middleware creation, and API handling.
 
-MongoDB: A NoSQL database that stores data in flexible, JSON-like documents, providing scalability and flexibility for storing user data.
+MongoDB:  A NoSQL database that stores data in flexible, JSON-like documents, providing scalability and flexibility for storing user data.
 
 Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js, facilitating schema-based modeling for application data.
 
+
 ### Other Tools and Libraries:
 
-JSON Web Tokens (JWT): Used for secure authentication by generating tokens that verify user identity.
+JSON Web Tokens (JWT):  Used for secure authentication by generating tokens that verify user identity.
 
-Cloudinary: A cloud-based image and video management service used for uploading and managing user profile images and media files.
+Cloudinary:   A cloud-based image and video management service used for uploading and managing user profile images and media files.
 
-dotenv: A module that loads environment variables from a .env file into process.env, enabling secure configuration of sensitive data.
+dotenv:   A module that loads environment variables from a .env file into process.env, enabling secure configuration of sensitive data.
 
-Axios: A promise-based HTTP client for making API requests from the frontend to the backend server.
+Axios:   A promise-based HTTP client for making API requests from the frontend to the backend server.
 
-bcrypt.js: A library used for hashing passwords to securely store and manage user authentication credentials.
+bcrypt.js:  A library used for hashing passwords to securely store and manage user authentication credentials.
 
-moment.js: A library for parsing, validating, manipulating, and formatting dates and times in JavaScript.
+moment.js:   A library for parsing, validating, manipulating, and formatting dates and times in JavaScript.
 
 
 
