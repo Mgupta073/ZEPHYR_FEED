@@ -1,47 +1,29 @@
-# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
+# Zephyr Feed
+Welcome to the Zephyr Feed project! Zephyr Feed is a social media application inspired by Twitter, built using React.js, MongoDB, Node.js, Express, Tailwind CSS, and React Query. It offers a modern and feature-rich platform for social networking and content sharing.
 
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+##Features
+-Authentication with JSONWEBTOKENS (JWT): Secure user authentication using JSON Web Tokens.
+-React Query: Efficient data fetching, caching, and state management.
+-Suggested Users: Display suggestions for users to follow based on interests.
+-Posts Management:
+    -Create new posts.
+    -Delete owned posts.
+    -Like and comment on posts.
+-Profile Management:
+    -Edit profile information.
+    -Upload and manage cover image and profile image using Cloudinary.
+-Notifications: Receive notifications for likes, comments, and follows.
 
-[Video Tutorial on Youtube](https://youtu.be/4GUVz2psWUg)
+####Create a .env file in the root directory and configure the following variables:
+MONGO_URI=
+PORT=
+JWT_SECRET=
+NODE_ENV=
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
 
-Some Features:
-
--   ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
--   🔐 Authentication with JSONWEBTOKENS (JWT)
--   🔥 React Query for Data Fetching, Caching etc.
--   👥 Suggested Users to Follow
--   ✍️ Creating Posts
--   🗑️ Deleting Posts
--   💬 Commenting on Posts
--   ❤️ Liking Posts
--   🔒 Delete Posts (if you are the owner)
--   📝 Edit Profile Info
--   🖼️ Edit Cover Image and Profile Image
--   📷 Image Uploads using Cloudinary
--   🔔 Send Notifications
--   🌐 Deployment
--   ⏳ And much more!
-
-### Setup .env file
-
-```js
-MONGO_URI=...
-PORT=...
-JWT_SECRET=...
-NODE_ENV=...
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
+####Usage
+-Authentication: Sign up or log in to start using Zephyr Feed.
+-Explore Features: Navigate through the home feed, profile, notifications, and other pages.
+-Create posts, like and comment on posts, follow other users, and update profile settings.
